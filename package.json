@@ -1,6 +1,6 @@
 {
   "name": "devsandbox-authenticate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jwt auth function for devsandbox use",
   "main": "auth.js",
   "scripts": {
