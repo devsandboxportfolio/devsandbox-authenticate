@@ -1,0 +1,19 @@
+{
+  "name": "devsandbox-authenticate",
+  "version": "1.0.0",
+  "description": "jwt auth function for devsandbox use",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsandboxportfolio/devsandbox-authenticate.git"
+  },
+  "author": "O'Hoon Kwon, Huy Tran, Nathan wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsandboxportfolio/devsandbox-authenticate/issues"
+  },
+  "homepage": "https://github.com/devsandboxportfolio/devsandbox-authenticate#readme"
+}
